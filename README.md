@@ -1,3 +1,4 @@
-# baekjoon
+# Baekjoon Algorithm Solution
 
-https://www.acmicpc.net/user/kjb4494
+- Python3 Only
+- https://www.acmicpc.net/user/kjb4494
