@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/1037
+# 약수
 
 def solve():
     return min(A_LIST) * max(A_LIST)

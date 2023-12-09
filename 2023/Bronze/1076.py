@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/1076
+# 저항
 
 if __name__ == '__main__':
     INFO_MAP = {
